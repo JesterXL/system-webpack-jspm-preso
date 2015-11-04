@@ -4,7 +4,7 @@ My slidedeck for [SystemJS](https://github.com/systemjs/systemjs), [Webpack](htt
 
 You can also [see the slides online](http://www.slideshare.net/jesterxl/system-webpackjspm).
 
-[![Slide Link](slide-preview.png)](http://www.slideshare.net/jesterxl/technical-debt-in-space-jesse-warden-100yss-2015)
+[![Slide Link](slide-preview.png)](http://www.slideshare.net/jesterxl/system-webpackjspm)
 
 # Resources
 
